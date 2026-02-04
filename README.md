@@ -1,7 +1,7 @@
-<h1 align="center"> Conversor de Monedas </h1>
-<h1 align="left">
+<h1 align="center">
   💱 Conversor de Monedas
-  <img src= "https://play.google.com/store/apps/details?id=com.mezhevikin.converter&hl=es_SV" align="right" width="80">
+  <img src= "<img width="512" height="512" alt="unnamed (1)" src="https://github.com/user-attachments/assets/b2eea59b-886f-4f1c-b2cc-c1f21fa697c7" />
+" align="right" width="80">
 </h1>
 
 ## Descripción del proyecto
